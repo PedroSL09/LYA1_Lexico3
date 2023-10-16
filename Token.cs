@@ -9,7 +9,10 @@ namespace LYA1_Lexico3
     {
         public enum Tipos
         {
-            Identificador,Numero,Caracter
+            Identificador,Numero,Caracter, OpAsignacion, FinSentencia,
+            OpLogico, OpRelacional, OpTermino, IncrementoTermino,
+            OpFactor, IncrementoFactor, OpTernario, Cadena, Comentario,
+            LlaveInicial, LlaveFinal
         }
         private string contenido;
         private Tipos  clasificacion;

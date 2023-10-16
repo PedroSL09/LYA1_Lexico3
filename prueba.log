@@ -1,0 +1,13 @@
+{ = LlaveInicial
+123.45e-8 = Numero
+radioDeLaCircunferencia = Identificador
+= = OpAsignacion
+45 = Numero
+; = FinSentencia
+++ = IncrementoTermino
++ = OpTermino
+-- = IncrementoTermino
+- = OpTermino
+# = Caracter
+} = LlaveFinal
+￿ = Caracter
